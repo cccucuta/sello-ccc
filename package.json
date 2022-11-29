@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@ilovepdf/ilovepdf-nodejs": "^0.2.1",
+    "axios": "^1.2.0",
     "core-js": "^3.8.3",
+    "file-saver": "^2.0.5",
     "vue": "^3.2.13"
   },
   "devDependencies": {
